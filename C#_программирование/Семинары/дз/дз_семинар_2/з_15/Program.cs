@@ -1,8 +1,8 @@
 ﻿// Задача 15. Напишите программу, которая принимает на вход цифру, 
 //обозначающую день недели, и проверяет, является ли этот день выходным.
 Console.WriteLine("Введите порядковый номер дня недели ");
-int a = int.Parse(Console.ReadLine());
-if (a == 6 || a == 7){Console.Write("Да");}
-else if (a <= 0 || a >= 8){Console.Write("День недели не существует. Введите порядковый номер дня недели правильно.");}
-else if (a <= 5 && a >= 1){Console.Write("Нет");}
+int num = int.Parse(Console.ReadLine());
+if (num == 6 || num == 7){Console.Write("Да");}
+else if (num <= 0 || num >= 8){Console.Write("День недели не существует. Введите порядковый номер дня недели правильно.");}
+else if (num <= 5 && num >= 1){Console.Write("Нет");}
 
