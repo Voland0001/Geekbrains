@@ -1,0 +1,15 @@
+C:\Users\Владимир\Documents\Geekbrains\тренировка\bin\Debug\net6.0\тренировка.exe
+C:\Users\Владимир\Documents\Geekbrains\тренировка\bin\Debug\net6.0\тренировка.deps.json
+C:\Users\Владимир\Documents\Geekbrains\тренировка\bin\Debug\net6.0\тренировка.runtimeconfig.json
+C:\Users\Владимир\Documents\Geekbrains\тренировка\bin\Debug\net6.0\тренировка.dll
+C:\Users\Владимир\Documents\Geekbrains\тренировка\bin\Debug\net6.0\тренировка.pdb
+C:\Users\Владимир\Documents\Geekbrains\тренировка\obj\Debug\net6.0\тренировка.csproj.AssemblyReference.cache
+C:\Users\Владимир\Documents\Geekbrains\тренировка\obj\Debug\net6.0\тренировка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владимир\Documents\Geekbrains\тренировка\obj\Debug\net6.0\тренировка.AssemblyInfoInputs.cache
+C:\Users\Владимир\Documents\Geekbrains\тренировка\obj\Debug\net6.0\тренировка.AssemblyInfo.cs
+C:\Users\Владимир\Documents\Geekbrains\тренировка\obj\Debug\net6.0\тренировка.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\Documents\Geekbrains\тренировка\obj\Debug\net6.0\тренировка.dll
+C:\Users\Владимир\Documents\Geekbrains\тренировка\obj\Debug\net6.0\refint\тренировка.dll
+C:\Users\Владимир\Documents\Geekbrains\тренировка\obj\Debug\net6.0\тренировка.pdb
+C:\Users\Владимир\Documents\Geekbrains\тренировка\obj\Debug\net6.0\тренировка.genruntimeconfig.cache
+C:\Users\Владимир\Documents\Geekbrains\тренировка\obj\Debug\net6.0\ref\тренировка.dll
