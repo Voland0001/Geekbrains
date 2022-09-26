@@ -1,0 +1,15 @@
+C:\Users\Владимир\Documents\Geekbrains\тренировка\лекция с# 1\bin\Debug\net6.0\лекция с# 1.exe
+C:\Users\Владимир\Documents\Geekbrains\тренировка\лекция с# 1\bin\Debug\net6.0\лекция с# 1.deps.json
+C:\Users\Владимир\Documents\Geekbrains\тренировка\лекция с# 1\bin\Debug\net6.0\лекция с# 1.runtimeconfig.json
+C:\Users\Владимир\Documents\Geekbrains\тренировка\лекция с# 1\bin\Debug\net6.0\лекция с# 1.dll
+C:\Users\Владимир\Documents\Geekbrains\тренировка\лекция с# 1\bin\Debug\net6.0\лекция с# 1.pdb
+C:\Users\Владимир\Documents\Geekbrains\тренировка\лекция с# 1\obj\Debug\net6.0\лекция с# 1.csproj.AssemblyReference.cache
+C:\Users\Владимир\Documents\Geekbrains\тренировка\лекция с# 1\obj\Debug\net6.0\лекция с# 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владимир\Documents\Geekbrains\тренировка\лекция с# 1\obj\Debug\net6.0\лекция с# 1.AssemblyInfoInputs.cache
+C:\Users\Владимир\Documents\Geekbrains\тренировка\лекция с# 1\obj\Debug\net6.0\лекция с# 1.AssemblyInfo.cs
+C:\Users\Владимир\Documents\Geekbrains\тренировка\лекция с# 1\obj\Debug\net6.0\лекция с# 1.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\Documents\Geekbrains\тренировка\лекция с# 1\obj\Debug\net6.0\лекция с# 1.dll
+C:\Users\Владимир\Documents\Geekbrains\тренировка\лекция с# 1\obj\Debug\net6.0\refint\лекция с# 1.dll
+C:\Users\Владимир\Documents\Geekbrains\тренировка\лекция с# 1\obj\Debug\net6.0\лекция с# 1.pdb
+C:\Users\Владимир\Documents\Geekbrains\тренировка\лекция с# 1\obj\Debug\net6.0\лекция с# 1.genruntimeconfig.cache
+C:\Users\Владимир\Documents\Geekbrains\тренировка\лекция с# 1\obj\Debug\net6.0\ref\лекция с# 1.dll
