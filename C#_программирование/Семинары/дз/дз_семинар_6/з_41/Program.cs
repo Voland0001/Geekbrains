@@ -8,7 +8,7 @@ void Num (int[] mass, int length)
     int i = 0;
     while (i<length)
     {
-        Console.WriteLine("Введите число эллемента массива: ");
+        Console.WriteLine("Введите число элемента массива: ");
         mass[i] = int.Parse(Console.ReadLine());
         i++;
     }
