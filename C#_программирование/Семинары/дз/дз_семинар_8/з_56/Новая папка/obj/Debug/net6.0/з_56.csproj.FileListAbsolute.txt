@@ -1,0 +1,15 @@
+C:\Users\Владимир\Documents\Geekbrains\C#_программирование\Семинары\дз\дз_семинар_8\з_56\bin\Debug\net6.0\з_56.exe
+C:\Users\Владимир\Documents\Geekbrains\C#_программирование\Семинары\дз\дз_семинар_8\з_56\bin\Debug\net6.0\з_56.deps.json
+C:\Users\Владимир\Documents\Geekbrains\C#_программирование\Семинары\дз\дз_семинар_8\з_56\bin\Debug\net6.0\з_56.runtimeconfig.json
+C:\Users\Владимир\Documents\Geekbrains\C#_программирование\Семинары\дз\дз_семинар_8\з_56\bin\Debug\net6.0\з_56.dll
+C:\Users\Владимир\Documents\Geekbrains\C#_программирование\Семинары\дз\дз_семинар_8\з_56\bin\Debug\net6.0\з_56.pdb
+C:\Users\Владимир\Documents\Geekbrains\C#_программирование\Семинары\дз\дз_семинар_8\з_56\obj\Debug\net6.0\з_56.csproj.AssemblyReference.cache
+C:\Users\Владимир\Documents\Geekbrains\C#_программирование\Семинары\дз\дз_семинар_8\з_56\obj\Debug\net6.0\з_56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владимир\Documents\Geekbrains\C#_программирование\Семинары\дз\дз_семинар_8\з_56\obj\Debug\net6.0\з_56.AssemblyInfoInputs.cache
+C:\Users\Владимир\Documents\Geekbrains\C#_программирование\Семинары\дз\дз_семинар_8\з_56\obj\Debug\net6.0\з_56.AssemblyInfo.cs
+C:\Users\Владимир\Documents\Geekbrains\C#_программирование\Семинары\дз\дз_семинар_8\з_56\obj\Debug\net6.0\з_56.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\Documents\Geekbrains\C#_программирование\Семинары\дз\дз_семинар_8\з_56\obj\Debug\net6.0\з_56.dll
+C:\Users\Владимир\Documents\Geekbrains\C#_программирование\Семинары\дз\дз_семинар_8\з_56\obj\Debug\net6.0\refint\з_56.dll
+C:\Users\Владимир\Documents\Geekbrains\C#_программирование\Семинары\дз\дз_семинар_8\з_56\obj\Debug\net6.0\з_56.pdb
+C:\Users\Владимир\Documents\Geekbrains\C#_программирование\Семинары\дз\дз_семинар_8\з_56\obj\Debug\net6.0\з_56.genruntimeconfig.cache
+C:\Users\Владимир\Documents\Geekbrains\C#_программирование\Семинары\дз\дз_семинар_8\з_56\obj\Debug\net6.0\ref\з_56.dll
