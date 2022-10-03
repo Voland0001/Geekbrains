@@ -38,6 +38,6 @@ void printIndex(int[,,] array)
     }
 }
 
-int[,,] array = new int[2, 2, 2];
+int[,,] array = new int[3, 3, 3];
 getArray(array);
 printIndex(array);

@@ -6,31 +6,31 @@
 
 
 
-void Result(double numb1, double numb2, double numk1, double numk2)
+void result(double numB1, double numB2, double numK1, double numK2)
 {
-    double arg = (numb2-numb1)/(numk1-numk2);
-    if (numb1 == numb2 && numk1==numk2)
+    double argument = (numB2 - numB1) / (numK1 - numK2);
+    if (numB1 == numB2 && numK1 == numK2)
     {
-        Console.Write("Прямые совпадают.");        
+        Console.Write("Прямые совпадают.");
     }
-    else if ((numb1 * numk2 - numb2 * numk1) == 0)
+    else if ((numB1 * numK2 - numB2 * numK1) == 0)
     {
-         Console.Write("Прямые параллельны и не имеют общих точек.");
+        Console.Write("Прямые параллельны и не имеют общих точек.");
     }
     else
     {
-        double function = numk1 * (arg) + numb1;
-        Console.WriteLine($"({arg}, {function})");
+        double function = numK1 * (argument) + numB1;
+        Console.WriteLine($"({argument}, {function})");
     }
 }
 
 Console.WriteLine("Введите чисело b1: ");
-double b1 =double.Parse(Console.ReadLine());
+double b1 = double.Parse(Console.ReadLine());
 Console.WriteLine("Введите чисело b2: ");
-double b2 =double.Parse(Console.ReadLine());
+double b2 = double.Parse(Console.ReadLine());
 Console.WriteLine("Введите чисело k1: ");
-double k1 =double.Parse(Console.ReadLine());
+double k1 = double.Parse(Console.ReadLine());
 Console.WriteLine("Введите чисело k2: ");
-double k2 =double.Parse(Console.ReadLine());
+double k2 = double.Parse(Console.ReadLine());
 
-Result(b1, b2, k1, k2); 
+result(b1, b2, k1, k2);
