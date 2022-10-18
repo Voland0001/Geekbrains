@@ -25,8 +25,8 @@ void SortArray(string[] array, int lengthArray, int maxLengthElement)
         else
         {
             i++;
-        }             
-    }    
+        }
+    }
 }
 
 Console.WriteLine("Введите количество элементов массива: ");
