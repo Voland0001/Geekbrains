@@ -15,13 +15,14 @@ def inputNumbers(inputText):
             print('Введено нечисловое значение. Введите число.')
     return number
 
-def checkNumber(num):
-    if num == 6 or num == 7:
-        print('Выходной день')
-    elif num > 0 and num < 8:
-        print('Будний день')  
-    else:
-        print('День недели введён некорректно') 
+# def checkNumber(num):
+#     if num == 6 or num == 7:
+#         print('Выходной день')
+#     elif num > 0 and num < 8:
+#         print('Будний день')  
+#     else:
+#         print('День недели введён некорректно') 
 
-num = inputNumbers('Введите число: ')    
-checkNumber(num)
+num = inputNumbers('Введите число: ')   
+print(num) 
+# checkNumber(num)
