@@ -27,4 +27,4 @@ list = []
 for e in range(1, num + 1):
     list.append(mult(e))
 
-print(f"Произведения чисел от 1 до {num}:  {list}")
+print(f"Произведения чисел от 1 до {num}: {list}")
