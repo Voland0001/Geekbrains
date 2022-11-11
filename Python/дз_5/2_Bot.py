@@ -32,6 +32,7 @@ def bot_calc(value):
         k = randint(1,29)
     return k    
 
+
 def p_print(name, k, counter, value):
     print(f"Ходил {name}, он взял {k}, теперь у него {counter}. Осталось на столе {value} конфет.")
     print()
