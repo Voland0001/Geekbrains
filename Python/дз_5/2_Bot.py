@@ -19,11 +19,18 @@ def input_dat(name):
     return x
 
 
-def input_dat2(name):
+def input_dat2(name, value):
     random_integer = randint(1, 29)
-    print(f"{name}, введите количество конфет, которое возьмете от 1 до 28: {random_integer}")
+    while value - random_integer <= 28 and value > 29:
+        print(f"{name}, введите количество конфет, которое возьмете от 1 до 28: {random_integer}")
     return random_integer
     
+
+def bot_calc(value):
+    k = randint(1,29)
+    while value-k <= 28 and value > 29:
+        k = randint(1,29)
+    return k    
 
 def p_print(name, k, counter, value):
     print(f"Ходил {name}, он взял {k}, теперь у него {counter}. Осталось на столе {value} конфет.")
@@ -50,7 +57,7 @@ while value > 28:
         flag = False
         p_print(player1, k, counter1, value)
     else:
-        k = input_dat2(player2)
+        k = input_dat2(player2, value)
         counter2 += k
         value -= k
         flag = True
