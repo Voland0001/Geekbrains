@@ -11,7 +11,7 @@ number = [0, 0]
 current_operation = "+"
 
 def my_log(message):
-    my_string = f"{datetime.datetime.now()}--{print_number(number)}--{message.from_user.id}--{message.text}\n"
+    my_string = f"{datetime.datetime.now()}__{message.from_user.id}__{print_number(number)}__{message.text}\n"
     with open("logger.txt", "a") as file:
         file.write(my_string)
 
