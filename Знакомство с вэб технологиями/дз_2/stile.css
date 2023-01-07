@@ -1,0 +1,46 @@
+body{
+    background-color:blanchedalmond;
+}
+
+@font-face {
+	font-family: 'Teddy Bear';
+	src: url('fonts/teddy_bear.eot'); /* IE 9 Compatibility Mode */
+	src: url('fonts/teddy_bear.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('fonts/teddy_bear.woff2') format('woff2'), /* Super Modern Browsers */
+		url('fonts/teddy_bear.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('fonts/teddy_bear.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('fonts/teddy_bear.svg#teddy_bear') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'Cabana';
+	src: url('fonts/cabana.eot'); /* IE 9 Compatibility Mode */
+	src: url('fonts/cabana.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('fonts/cabana.woff2') format('woff2'), /* Super Modern Browsers */
+		url('fonts/cabana.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('fonts/cabana.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('fonts/cabana.svg#cabana') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'Equinox';
+	src: url('fonts/equinox.eot'); /* IE 9 Compatibility Mode */
+	src: url('fonts/equinox.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('fonts/equinox.woff2') format('woff2'), /* Super Modern Browsers */
+		url('fonts/equinox.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('fonts/equinox.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('fonts/equinox.svg#equinox') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+h1{
+    color: rgb(121, 61, 103);
+    font-family:'Teddy bear';
+}
+h2{
+    color: rgb(78, 10, 48);
+    font-family:'Cabana';
+}
+p{
+	font-family: 'Equinox';
+}
+

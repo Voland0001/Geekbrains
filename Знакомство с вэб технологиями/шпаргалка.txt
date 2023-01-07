@@ -1,0 +1,29 @@
+alt + z - перенос ссылки
+
+https://pastebin.com/- для "поделиться кодом"
+
+emmet пакет для автодополнения
+
+ https://pastebin.com/pwBybgpU - написанная страница на занатии
+
+ctrl + d выделение похожего элемента
+
+ctrl+F2 выделяет вообще все совпадения
+alt + shift + f перенос строки чтобы было видно
+
+en - тег энфейзис курсив акцент
+i интерик курсив
+b болт жирный 
+strong жирный акцент
+hr горизонтал рул горизонтальная линия в htmi
+
+https://colorscheme.ru/
+Тренажер Emmet: https://epixx.github.io/emmet/
+Emmet команды: https://docs.emmet.io/cheat-sheet/
+open in browser приложение-расширение (extention) для открытия ссылки нажать альт + б alt + b
+live server 
+текст рыба <p>lorem<p>
+
+Павел: https://open-vsx.org/extension/techer/open-in-browser
+Павел: https://open-vsx.org/extension/ritwickdey/LiveServer
+Павел: https://validator.w3.org/#validate_by_input
